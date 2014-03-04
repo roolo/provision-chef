@@ -3,7 +3,7 @@
 ## Setup
 
 1. run `bundle`
-2. run `librarian-chef install`
+2. run `berks install`
 
 ### Requirements
 
