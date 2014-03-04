@@ -3,6 +3,7 @@
 ## Setup
 
 1. run `bundle`
+2. run `librarian-chef install`
 
 ### Requirements
 
